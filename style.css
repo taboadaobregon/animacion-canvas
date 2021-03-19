@@ -1,0 +1,17 @@
+body {
+    margin:0px;
+    overflow:hidden;
+    background-color:black;
+}
+canvas{
+    background-color:black;
+    border:2px solid white;
+}
+div{
+    color:aqua;
+}
+.a{
+    position:absolute;
+    bottom:0;
+    color:pink;
+}
